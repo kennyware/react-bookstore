@@ -1,0 +1,8 @@
+export const USER_LOGGED_IN = 'USER_LOGGED_IN';
+export const USER_LOGGED_OUT = 'USER_LOGGED_OUT';
+export const GET_BOOKS = 'GET_BOOKS';
+export const GET_SINGLE_BOOK = 'GET_SINGLE_BOOK';
+export const USER_REGISTERED = 'USER_REGISTERED';
+export const ADD_TO_CART = 'ADD_TO_CART';
+export const REMOVE_FROM_CART = 'REMOVE_FROM_CART';
+export const GET_CART_ITEMS = 'GET_CART_ITEMS';
